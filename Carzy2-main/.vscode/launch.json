@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CarzyApplication<carzy>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.carzy.CarzyApplication",
+            "projectName": "carzy",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
